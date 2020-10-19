@@ -2,7 +2,7 @@
 
 My name is Stefana, I work as an integrator and I follow the courses of MTI master.
 
-<img src="images/stef.png" alt="hi" width=150 height=150 class="inline"/>
+<img src="images/stef.png" alt="hi" width=150 height=150"/>
 
 ## Laborator1 DSS
 
