@@ -6,7 +6,7 @@ My name is Stefana, I work as an integrator and I follow the courses of MTI mast
 
 ## Laborator1 DSS
 
-https://media.giphy.com/media/kFteMU5oDo1Bm/giphy.gif
+![feeling](https://media.giphy.com/media/kFteMU5oDo1Bm/giphy.gif)
 
 ### Support or Contact
 
